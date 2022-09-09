@@ -1,1 +1,1 @@
-My first repo in C
+Positive anything is better than negative nothing
